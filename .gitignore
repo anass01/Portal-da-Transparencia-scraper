@@ -1,0 +1,5 @@
+
+geckodriver.exe
+*.log
+*.cfg
+*.csv
